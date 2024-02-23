@@ -1,11 +1,11 @@
 # flutter_webrtc_video_manual_signaling
 
-This sample is base on Amir Eshag youtube video
-https://www.youtube.com/watch?v=-wWOyaJ-PUM
-https://www.youtube.com/watch?v=QgPcswKUnXw&t=71s
+### This sample is base on Amir Eshag Youtube videos
+* https://www.youtube.com/watch?v=-wWOyaJ-PUM
+* https://www.youtube.com/watch?v=QgPcswKUnXw&t=71s
 
 
-in order to test 
+### in order to test 
 #### 1- run the project
 #### 2- open the executed project in two web browser ot tabs
 #### 3- click the offer button in first one
