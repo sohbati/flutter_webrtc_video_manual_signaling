@@ -12,7 +12,7 @@ in order to test
 #### 4- copy the sdp from console and paste in the second window TextField then click the setDescription
 #### 5- in the second window click answer button
 #### 6- copy the sdp from console and paste it in the first window and click setDescription
-#### 7- copy the first candidate from first window and then paste it in second window
+#### 7- copy the first candidate from first window's console and then paste it in second window
 #### 8- after that click setCandidate
 #### 9- now you should see the remote and local videos in both windows.
 
